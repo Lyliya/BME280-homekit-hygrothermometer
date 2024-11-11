@@ -21,7 +21,8 @@ const char* AP_PASSWORD = "access_point_password";
 
 ## 3D Model
 
-TBD
+Box : https://www.thingiverse.com/thing:6827960  
+Cover : https://www.thingiverse.com/thing:4928365
 
 ## Troubleshooting
 
