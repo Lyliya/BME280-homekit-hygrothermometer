@@ -7,9 +7,12 @@ BME280 hygro-thermometer running on XIAO ESP32C6 compatible Homekit through [Hom
 
 ## Installation
 
-1. Install [`HomeSpan`](https://github.com/HomeSpan/HomeSpan) and [`Adafruit_BME280`](https://github.com/adafruit/Adafruit_BME280_Library)
+### Modules
+Install [`HomeSpan`](https://github.com/HomeSpan/HomeSpan) and [`Adafruit_BME280`](https://github.com/adafruit/Adafruit_BME280_Library)
 
-2. Add `define.h` file
+### AP Configuration
+
+Create a `define.h` file with the following informations
 
 > [!NOTE]
 > They define the AP created by Homespan when no WIFI is defined. It's not your router credential !
